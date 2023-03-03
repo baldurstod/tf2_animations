@@ -139,6 +139,12 @@ $Sequence "spy_melee_stance" {
 	fadeout 0.2
 	fps 30
 }
+$Sequence "spy_marketing_pose_saxxy" {
+	"spy_loadout_tf_animations_anims\spy_marketing_pose_saxxy.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
 
 $IKChain "rhand" "bip_hand_R" knee 0.736 0.677 0.004
 $IKChain "lhand" "bip_hand_L" knee 0.73 -0.683 0.006
