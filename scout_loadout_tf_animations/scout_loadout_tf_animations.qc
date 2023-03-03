@@ -140,6 +140,12 @@ $Sequence "pose_golfer" {
 	fadeout 0.2
 	fps 30
 }
+$Sequence "scout_marketing_pose_001" {
+	"scout_loadout_tf_animations_anims\scout_marketing_pose_001.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
 
 $IKChain "rhand" "bip_hand_R" knee 0.859 0.512 0.003
 $IKChain "lhand" "bip_hand_L" knee 0.821 -0.002 -0.571
