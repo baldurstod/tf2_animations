@@ -1,6 +1,6 @@
 // Created by Crowbar 0.29.0.0
 
-$ModelName "player/demo_loadout_tf_animations.mdl"
+$ModelName "player/demoman_loadout_tf_animations.mdl"
 
 $SurfaceProp "default"
 
@@ -122,38 +122,38 @@ $DefineBone "prop_bone_5" "bip_pelvis" 0 0 0 0 0 0 0 0 0 0 0 0
 $DefineBone "prop_bone_6" "bip_pelvis" 0 0 0 0 0 0 0 0 0 0 0 0
 
 $Sequence "meettheteam" {
-	"demo_user_animations_anims\meettheteam.smd"
+	"demoman_user_animations_anims\meettheteam.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
 }
 
 $Sequence "demo_melee_stance" {
-	"demo_user_animations_anims\demo_melee_stance.smd"
+	"demoman_user_animations_anims\demo_melee_stance.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
 }
 $Sequence "demo_marketing_pose_001" {
-	"demo_user_animations_anims\demo_marketing_pose_001.smd"
+	"demoman_user_animations_anims\demo_marketing_pose_001.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
 }
 $Sequence "demo_marketing_pose_002" {
-	"demo_user_animations_anims\demo_marketing_pose_002.smd"
+	"demoman_user_animations_anims\demo_marketing_pose_002.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
 }
 $Sequence "demo_marketing_pose_003" {
-	"demo_user_animations_anims\demo_marketing_pose_003.smd"
+	"demoman_user_animations_anims\demo_marketing_pose_003.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
 }
 $Sequence "demo_marketing_pose_004" {
-	"demo_user_animations_anims\demo_marketing_pose_004.smd"
+	"demoman_user_animations_anims\demo_marketing_pose_004.smd"
 	fadein 0.2
 	fadeout 0.2
 	fps 30
